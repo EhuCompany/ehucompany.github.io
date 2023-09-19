@@ -4,7 +4,7 @@
 
 ## Food
 
-We love Golden Chocolate Ehus. They resemble ourselves, so we love ourselves. They're expensive though, so we just eat *ordinary* Chocolate Ehus.
+We love Golden Chocolate Ehus. They resemble us, so we love ourselves. They're expensive though, so we just eat *ordinary* Chocolate Ehus.
 
 ## History
 
@@ -14,6 +14,6 @@ We Ehus are the good guys, and Ehas are the bad guys. Ehus control the world, si
 
 ## Clothing
 
-We have a common dress and wear blue pajamas and a blue santa hat. Christmas wear is our attire.
+We have a common dress and wear blue pajamas and a blue Santa hat. Christmas wear is our attire.
 
-Ehas do not have a common dress. Christmas wear is also their attire unfortunately.
+Ehas do not have a common dress. Christmas wear is also their attire, unfortunately.
